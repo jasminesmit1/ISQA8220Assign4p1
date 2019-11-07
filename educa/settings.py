@@ -132,7 +132,7 @@ STATIC_ROOT = os.path.join(PROJECT_ROOT, 'staticfiles')
 STATIC_URL = '/static/'  # added
 
 STATICFILES_DIR = [
-    os.path.join(BASE_DIR, 'static'),  # added
+    os.path.join(PROJECT_ROOT, 'static'),  # added
 ]
 
 # Update database configuration with $DATABASE_URL.
