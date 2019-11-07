@@ -80,10 +80,10 @@ WSGI_APPLICATION = 'educa.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'd8lhql6jrq10vq',
-        'USER': 'bgujqcazqisewq',
-        'PASSWORD': 'acbbc914c52adafd6619e20e9d56898186d4ef8af0c4612919a80bc049ef3690',
-        'HOST': 'ec2-174-129-253-42.compute-1.amazonaws.com',
+        'NAME': 'd6vsfqc1s5ogla',
+        'USER': 'jiduzvubaidqmh',
+        'PASSWORD': 'a14f7072fbcee62121cf53d22e7401b7652060dc08205ca3531292e4f7898949',
+        'HOST': 'ec2-107-21-120-104.compute-1.amazonaws.com',
         'PORT': '5432',
 
     }
